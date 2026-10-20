@@ -1,0 +1,11 @@
+SEVEN-PHASE STRUCTURE (matches the supplied Project Templates archive)
+
+1. Ideation Phase — completed problem statements, empathy map, and idea prioritization.
+2. Requirement Analysis — solution requirements, data-flow/user stories, and technology stack.
+3. Project Design Phase — problem-solution fit, proposed solution, and solution architecture.
+4. Project Planning Phase — milestones, plan, and risk register.
+5. Project Development Phase — UAT report, functional QA summary, and evidence screenshots.
+6. Project Documentation — final report, FSD, phase handover, README, and submission checklist.
+7. Project Demonstration — post-recording guide and final narrated MP4 (~1 minute 38 seconds).
+
+The package contains editable Word (.docx) documents; duplicate PDF exports have been omitted. Supporting evidence images, ideation diagrams, a completed customer journey map, README/checklist files, and the final narrated MP4 are included. GitHub upload and the direct video URL remain pending.

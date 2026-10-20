@@ -1,0 +1,21 @@
+AUTOMATED NETWORK REQUEST MANAGEMENT — SKILLWALLET SUBMISSION CHECKLIST
+
+SkillWallet ID: SWUID2026232277
+Project owner / demonstrator: PILLEM RAHUL
+GitHub repository: https://github.com/rahulp06/Automated_Network_Request_Management_in_ServiceNow
+ServiceNow environment: dev446474.service-now.com (ServiceNow Personal Developer Instance)
+
+[ ] Review report metadata, names, and any rubric-required fields.
+[ ] Confirm whether a separate Team ID exists; it was not supplied separately from the SkillWallet ID.
+[ ] Confirm UAT maximum marks/rubric with the coordinator if required by the template.
+[x] Record the narrated project explanation video; final MP4 (~1:38) is included in “7. Project Demonstration”. Confirm any minimum-duration rubric requirement with the coordinator.
+[ ] Before public upload, review the final video and screenshots for credentials, App Passwords, full temporary inbox address and personal information; redact if any are visible.
+[ ] Upload the seven-folder Project Templates structure and documentation to the supplied Drive folder.
+[ ] Upload extracted files / a readable repository structure and video or video link to GitHub.
+[ ] Share the repository URL in SkillWallet for review.
+[ ] Obtain authorized sign-offs if required; do not invent signatures.
+
+Demo status: narrated MP4 recorded and included in Phase 7; GitHub upload and direct MP4 URL remain pending.
+
+Verified evidence: required catalog validation, tester-confirmed approval and rejection, REQ/RITM linkage, SMTP connection success and actual outbound notification receipt.
+Open follow-ups: five queued messages, inbound mail non-operational, one parent approval related list trace, review of TASK0020173, and no formal performance/load test.

@@ -1,0 +1,8 @@
+VIDEO INCLUDED
+
+Final narrated demo file: Automated_Network_Request_Management_Demo_With_User_Voice.mp4
+Duration: approximately 1 minute 38 seconds (97.97 seconds).
+
+The MP4 is included in this folder. Upload this file and the seven-phase documentation package to the project GitHub repository, then update the README/FSD/final report with the direct GitHub file URL. Confirm any coordinator-required minimum duration before final submission.
+
+Security reminder: do not publish SMTP/App Passwords, browser credentials, full temporary test inbox addresses, or real personal information.
